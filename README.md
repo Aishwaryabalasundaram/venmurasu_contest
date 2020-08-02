@@ -1,8 +1,10 @@
 # Venmurasu_Coding_Contest
 Top 10 longest words in the venmurasu novel
 
-# Prerequisites:
+# Prerequisites and Recommendations:
 Programming Language :  Python 
+Preferred OS         :  Windows
+Preferred IDE        :  Anaconda
 
 # Libraries needed to install:
 Refer requirements.txt file
