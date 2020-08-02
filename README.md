@@ -37,6 +37,7 @@ There are totally five python files which are uploaded.
 
 2.web scraping and extraction.py        ---> 	This script is for scraping the url and the contents from the website.
 		        	To avoid scraping everytime we run the project, the scraped contents are stored in a file.
+				
      Blog contents     ---> 	blogs/1937 scraped files
      URLs              ---> 	venmurasu_blog_url_list.txt file
 
