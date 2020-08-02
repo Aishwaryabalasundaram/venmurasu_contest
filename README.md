@@ -38,14 +38,14 @@ There are totally five python files which are uploaded.
 2.web scraping and extraction.py        ---> 	This script is for scraping the url and the contents from the website.
 		        	To avoid scraping everytime we run the project, the scraped contents are stored in a file.
 				
-     Blog contents     ---> 	blogs/1937 scraped files
+     Blog contents     ---> 	blogs/1937 scraped files ---> Download it from the google drive link
      URLs              ---> 	venmurasu_blog_url_list.txt file
 
 	Since the contents are stored in a file, there is no need to run this script.
 
 3.filtering_tamil_words.py  ---> 	It opens each file stored under blogs folder and creates a new file with only tamil words(comma separated).
 
-     Tamil words file  --->	venmurasu_tamil_word_file_complete.txt ( contains all tamil words )
+     Tamil words file  --->	venmurasu_tamil_word_file_complete.txt ---> Download it from the google drive link ( contains all tamil words ) 
 				venmurasu_tamil_word_file_13.txt       ( contains tamil words with length >= 13)
 
 	Since the contents are stored in a file, there is no need to run this script.
