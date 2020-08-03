@@ -53,7 +53,7 @@ def mainpart():
         
     def onClick2(idx): #classification of letters
         mytext=btn_list[idx].cget("text")
-        uyir,mei,uyirmei,ayutham,vada_mozhi,vallinam,mellinam,idayinam=added_package.classify_words(mytext)
+        uyir,mei,uyirmei,ayutham,vada_mozhi,vallinam,mellinam,idayinam=user_defined_library_package.classify_words(mytext)
         class Table:
          def __init__(self,root):
             for i in range(rows):
